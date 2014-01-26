@@ -1,0 +1,3 @@
+echo "{\"version\":1}"
+echo "[[]"
+conky -c ~/.config/i3/bar_$1.conf
